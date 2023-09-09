@@ -19,28 +19,7 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure - 코딩테스트 
 
 ### 과제 업로드 양식 
 
-
-| 작성자  |   날짜   | 언어    |
-| ------- | --------- | ------- |
-| Name    | YY.MM.DD  | Python  |
-
-# Problem_Title
-
- 
-  
-
-### 풀이 과정  
-
-
-
-### 소스 코드
-
-```Language
-
-```
-
-
-
+template.md 참조 
 
 
 
